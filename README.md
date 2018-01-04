@@ -12,4 +12,6 @@ Control your character with WASD and jump with the spacebar. Collect coins, avoi
 See how far you can get and how many coins you can pick up.
 The run NEVER ENDS!
 
-
+![alt text](https://github.com/RaceMahoney/Endless-Runner-/blob/master/EndlessRunner(1).PNG)
+![alt text](https://github.com/RaceMahoney/Endless-Runner-/blob/master/EndlessRunner.PNG)
+![alt text](https://github.com/RaceMahoney/Endless-Runner-/blob/master/EndlessRunner(2).PNG)
